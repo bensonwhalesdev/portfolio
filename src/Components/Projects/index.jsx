@@ -21,7 +21,7 @@ const Projects = () => {
       description:
         "Spend Sense is a personal budgeting tool that tracks income, expenses, and savings. Features include monthly planning, financial summaries, and account tracking.",
       image: "/spend.PNG",
-      link: "https://github.com/bensonwhalesdev/Spend-Sense",
+      link: "https://spend-sense-six.vercel.app/",
       stacks: ["React", "Tailwind", "Node.js", "Express", "MongoDB"],
     },
     
