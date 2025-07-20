@@ -17,7 +17,7 @@ const HeroSection = () => {
 
         {/* Image Block */}
         <div className="flex-1 flex justify-center animate-fade-in">
-         <img src="/benson.png" alt="Lawrence Benson" className="w-[280px] sm:w-[350px] rounded-full shadow-lg transition-transform duration-500 hover:scale-x-[-1]" />
+         <img src="/bensonn.jpg" alt="Lawrence Benson" className="w-[280px] sm:w-[350px] rounded-full shadow-lg transition-transform duration-500 hover:scale-x-[-1]" />
         </div>
       </div>
     </section>
