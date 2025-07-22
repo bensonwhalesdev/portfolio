@@ -28,7 +28,7 @@ const Projects = () => {
   ];
 
   return (
-    <section className="bg-[#440241] px-6 md:px-10 py-20" id="projects">
+    <section className="bg-[#440241] px-6 md:px-10 py-10" id="projects">
       <div className="max-w-6xl mx-auto">
         <h1 className="text-4xl font-extrabold w-[max-content] border-b-3 pb-2 mx-auto text-white mb-16 animate-fade-in-up">
           Projects

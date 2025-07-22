@@ -1,6 +1,6 @@
 const HeroSection = () => {
   return (
-    <section id="info" className="bg-[#440241] pt-28 pb-16 px-6 md:px-10 rounded-b-[100px]">
+    <section id="info" className="bg-[#440241] pt-28 pb-16 px-6 md:px-10">
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center justify-between gap-10 text-white">
         
         {/* Text Block */}
@@ -11,8 +11,7 @@ const HeroSection = () => {
           <h3 className="text-xl sm:text-2xl font-medium text-white/80">Fullstack Web Developer</h3>
           <p className="text-white/70 max-w-md">I build modern, user friendly and scalable web apps. I love turning ideas into interactive experiences.
           </p>
-          <button id="projects" className="bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-xl font-semibold transition duration-300 shadow-md hover:shadow-lg cursor-pointer">View Resume
-          </button>
+          <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="bg-pink-500 hover:bg-pink-600 text-white px-6 py-3 rounded-xl font-semibold transition duration-300 shadow-md hover:shadow-lg cursor-pointer inline-block">View Resume</a>
         </div>
 
         {/* Image Block */}
