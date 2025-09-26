@@ -8,7 +8,7 @@ const ContactMe = () => {
         <h1 className="text-4xl font-extrabold border-b-2 border-white pb-2 inline-block mb-10 animate-fade-in-up">Contact Me </h1>
 
         {/* Form */}
-        <form action="https://formspree.io/f/xjkogvpd" method="POST" className="bg-white/10 backdrop-blur-lg p-8 rounded-xl shadow-xl space-y-6 animate-fade-in-up">
+        <form action="https://formspree.io/f/xdkwkjea" method="POST" className="bg-white/10 backdrop-blur-lg p-8 rounded-xl shadow-xl space-y-6 animate-fade-in-up">
           {/* Name & Email */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div>
