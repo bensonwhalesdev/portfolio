@@ -29,6 +29,15 @@ const Projects = () => {
       stacks: ["React", "Tailwind", "Node.js", "Express", "MongoDB"],
       github: "https://github.com/bensonwhalesdev/Spend-Sense",
     },
+    {
+      title: "Modern Recipe Sharing Platform (Thebomma Gourmet)",
+      description:
+        "Thebomma Gourmet is a modern full-stack recipe platform where users can create, browse, and interact with recipes. It features real-time data fetching with GraphQL, rich recipe pages, user authentication, image uploads, and a clean, responsive UI. Users can like recipes, add comments, and explore dishes by search or cuisine filters.",
+      image: "/bomma.PNG",
+      link: "https://thebomma-gourmet.vercel.app/",
+      stacks: ["Next.js", "Tailwind", "TypeScript","Grapghql", "MongoDB"],
+      github: "https://github.com/bensonwhalesdev/flavor-haven",
+    },
   ];
 
   return (
